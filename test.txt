@@ -1,0 +1,1 @@
+INSERT INTO conditions(conditionID, conditionName, conditionComments)VALUES(?,?,?)

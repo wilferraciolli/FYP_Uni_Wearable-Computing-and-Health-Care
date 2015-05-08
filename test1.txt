@@ -1,0 +1,1 @@
+INSERT INTO sensor(sensorID, sensorName, sensorReads, sensorComments)VALUES(?,?,?,?)
