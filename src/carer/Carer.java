@@ -32,7 +32,7 @@ public class Carer extends javax.swing.JFrame {
     //String IP_ADDRESS = "localhost";
 
     /**
-     * Creates new form Carer
+     * Creates new form Carer9
      */
     public Carer() {
         initComponents();
